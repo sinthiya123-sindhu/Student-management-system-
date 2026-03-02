@@ -16,7 +16,7 @@ JavaScript – Functionality (Add/Delete students dynamically)
 🖥️ Fully client-side (no backend required)
 
 🌐 Live Demo
-https://github.com/sinthiya123-sindhu/Student-management-system-/deployments
+https://github.com/sinthiya123-sindhu/Student-management-system-/
 
 👩‍💻 Author
 Made by Dhainesh Sinthiya.Y 
